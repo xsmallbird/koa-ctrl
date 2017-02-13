@@ -6,7 +6,7 @@ koa-controller
 ### 安装
 
 ```shell
-npm install git@112.74.84.77:base/random-number.git --save
+npm install git@112.74.84.77:base/koa-controller.git
 ```
 
 ### 测试
