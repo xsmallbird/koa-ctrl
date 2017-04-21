@@ -1,6 +1,6 @@
 {
   "name": "koa-controller",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "基于Koa的控制器定义组件",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "author": "xiaorujun@genomics.cn",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^3.15.0"
+    "eslint": "^3.19.0"
   },
   "dependencies": {
     "koa-compose": "^2.5.1",
