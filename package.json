@@ -1,6 +1,6 @@
 {
   "name": "koa-controller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于Koa的控制器定义组件",
   "main": "index.js",
   "scripts": {
