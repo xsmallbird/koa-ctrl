@@ -1,6 +1,6 @@
 {
   "name": "koa-controller",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Router middleware for koa. Provides a way to define controller",
   "main": "lib/koa-controller.js",
   "files": [
