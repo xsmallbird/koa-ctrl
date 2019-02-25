@@ -1,6 +1,8 @@
 # koa-ctrl
 
+<!-- [![NPM version][npm-image]][npm-url] -->
 [![License][license-image]][license-url]
+
 
 > koa-ctrl is used to define controller base koa@v2.
 
@@ -82,3 +84,9 @@ $ npm test (coverage 100%)
 ## License
 
 MIT
+
+
+[npm-image]: https://img.shields.io/npm/v/koa-ctrl.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/koa-ctrl
+[license-image]: http://img.shields.io/npm/l/koa-compose.svg?style=flat-square
+[license-url]: LICENSE
