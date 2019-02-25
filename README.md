@@ -1,13 +1,13 @@
-# koa-controller
+# koa-ctrl
 
 [![License][license-image]][license-url]
 
-> koa-controller is used to define controller base koa@v2.
+> koa-ctrl is used to define controller base koa@v2.
 
 ## Install
 
 ```sh
-$ npm i koa-controller --save
+$ npm i koa-ctrl --save
 ```
 
 ## API

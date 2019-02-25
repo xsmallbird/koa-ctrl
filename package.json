@@ -1,8 +1,8 @@
 {
-  "name": "koa-controller",
+  "name": "koa-ctrl",
   "version": "2.0.0",
   "description": "Router middleware for koa. Provides a way to define controller",
-  "main": "lib/koa-controller.js",
+  "main": "lib/Controller.js",
   "files": [
     "lib",
     "LICENSE",
@@ -13,12 +13,10 @@
     "lint": "./node_modules/.bin/eslint .",
     "test": "npm run lint && jest --forceExit --coverage --detectOpenHandles"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@112.74.84.77:base/koa-controller.git"
-  },
+  "repository": "xsmallbird/koa-ctrl",
   "keywords": [
     "koa",
+    "ctrl",
     "controller",
     "middleware",
     "控制器",
